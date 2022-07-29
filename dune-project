@@ -1,6 +1,6 @@
 (lang dune 3.2)
 
-(name keigai981jp)
+(name keibai981jp)
 
 (generate_opam_files true)
 
@@ -16,7 +16,7 @@
 (documentation https://url/to/documentation)
 
 (package
- (name keigai981jp)
+ (name keibai981jp)
  (synopsis "A short synopsis")
  (description "A longer description")
  (depends ocaml dune)
