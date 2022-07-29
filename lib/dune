@@ -1,0 +1,3 @@
+(library
+ (name keigai981jp)
+ (libraries lambdasourp))

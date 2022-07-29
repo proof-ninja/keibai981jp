@@ -1,0 +1,4 @@
+(executable
+ (public_name keigai981jp)
+ (name main)
+ (libraries keigai981jp))
